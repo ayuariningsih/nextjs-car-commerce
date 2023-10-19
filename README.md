@@ -38,12 +38,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## NOTE
 
-# Reference:
-Tutorial by https://www.youtube.com/watch?v=pUNSHPyVryU 
-Next Documentation: https://nextjs.org/
+### Reference:
+Tutorial by https://www.youtube.com/watch?v=pUNSHPyVryU
+
 Headlessui Documentation: https://headlessui.com/
 
-# Deployment
+### Deployment
 URL: https://car-commerce-eta.vercel.app
 
 
